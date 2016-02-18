@@ -1,4 +1,7 @@
 # A-Frame VR
+Lightning Talk by Jeff Carter
+2/18/2016
+WDI Atlanta
 
 ## Why
 * VR is awesome!
