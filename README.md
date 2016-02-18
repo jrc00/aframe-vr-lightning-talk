@@ -2,6 +2,7 @@
 Lightning Talk by Jeff Carter
 2/18/2016
 WDI Atlanta
+*
 
 ## Why
 * VR is awesome!
@@ -36,16 +37,23 @@ opes of accelerating the creation of WebVR websites.
 
 ### Install
 First install from npm:
+
 `npm install aframe`
 
 And in your Browserify/Webpack modules, simply require the module:
+
 `require('aframe')`
 
 Alternatively, you can clone this repository to work locally on this project and explore the examples.
+
 `git clone git@github.com:aframevr/aframe.git`
+
 `cd aframe && npm install`
+
 To start the local development server:
+
 `npm start`
+
 And fire up http://localhost:9000
 
 ### A-Frame Startup Boilerplate
