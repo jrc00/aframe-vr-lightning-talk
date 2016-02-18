@@ -7,11 +7,11 @@
 *
 
 ## What
-Create a virtual reality experience inside the browser with ONE line of code:
+An [open source](https://github.com/aframevr/aframe) library for creating virtual reality experiences inside the browser with ONE line of code:
 
 ` <script src="https://aframe.io/releases/latest/aframe.min.js"></script>`
 
-This allows you to create simple VR website with basic HTML.
+This allows you to create WebVR websites with basic HTML.
 
 Created by Mozilla.
 Can be used with Oculus Rift, Google Cardboard, desktops and smartphones.
@@ -20,6 +20,7 @@ Can be used with Oculus Rift, Google Cardboard, desktops and smartphones.
 ## Examples - use your smartphones and check out these websites:
 * [A-Frame website examples](https://aframe.io/examples/)
 * [Codepen example](http://codepen.io/team/mozvr/pen/BjygdO?editors=100)
+* [DrawVR](http://drawvr.com/)
 *
 
 ## How
@@ -43,8 +44,12 @@ Alternatively, you can clone this repository to work locally on this project and
 To start the local development server:
 `npm start`
 And fire up http://localhost:9000
+
+### A-Frame Startup Boilerplate
+[Get Started](https://github.com/aframevr/aframe-boilerplate)
 *
 
 ## More info
 * [Official FAQ](https://aframe.io/faq/)
 * [Getting Started Guide](https://aframe.io/docs/guide/)
+* [Collection of useful resources](https://github.com/aframevr/awesome-aframe)
