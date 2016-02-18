@@ -3,7 +3,7 @@ Lightning Talk by Jeff Carter
 2/18/2016
 WDI Atlanta
 
-
+![Doing it wrong](/GoPro-Kolor-2.jpg)
 ## Why
 * VR is awesome!
 * WebGL is standard, powerful, but complex and difficult to learn.
