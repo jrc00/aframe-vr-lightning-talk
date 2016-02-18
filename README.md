@@ -5,8 +5,8 @@ WDI Atlanta
 
 ![Doing it wrong](/GoPro-Kolor-2.jpg)
 ## Why
-* VR is awesome!
-* WebGL is standard, powerful, but complex and difficult to learn.
+* VR is freaking awesome!
+* WebGL is the standard, powerful, but complex and difficult to learn.
 * Making VR accessible to millions of exisiting web developers.
 
 
