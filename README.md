@@ -2,13 +2,13 @@
 Lightning Talk by Jeff Carter
 2/18/2016
 WDI Atlanta
-*
+
 
 ## Why
 * VR is awesome!
 * WebGL is standard, powerful, but complex and difficult to learn.
 * Making VR accessible to millions of exisiting web developers.
-*
+
 
 ## What
 An [open source](https://github.com/aframevr/aframe) library for creating virtual reality experiences inside the browser with ONE line of code:
@@ -19,13 +19,14 @@ This allows you to create WebVR websites with basic HTML.
 
 Created by Mozilla.
 Can be used with Oculus Rift, Google Cardboard, desktops and smartphones.
-*
+
 
 ## Examples - use your smartphones and check out these websites:
 * [A-Frame website examples](https://aframe.io/examples/)
 * [Codepen example](http://codepen.io/team/mozvr/pen/BjygdO?editors=100)
 * [DrawVR](http://drawvr.com/)
-*
+
+
 
 ## How
 A-Frame comes with a collection of building blocks for models, videos, skies,
@@ -58,7 +59,7 @@ And fire up http://localhost:9000
 
 ### A-Frame Startup Boilerplate
 [Get Started](https://github.com/aframevr/aframe-boilerplate)
-*
+
 
 ## More info
 * [Official FAQ](https://aframe.io/faq/)
